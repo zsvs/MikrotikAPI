@@ -1,0 +1,4 @@
+bin/
+netcoreapp3.1/
+obj/
+*.csproj
